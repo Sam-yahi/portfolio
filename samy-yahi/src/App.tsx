@@ -7,6 +7,7 @@ import { ProjectsPage } from './pages/Projects';
 import { Navbar } from './assets/components/navbar';
 import {Skills} from './pages/skills'
 
+
 import './App.css'
 
 function App() {

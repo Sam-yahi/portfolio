@@ -7,14 +7,15 @@ const skills = [
   { name: 'Figma', category: 'UI/UX Design', icon: '◌', iconBg: 'bg-[#0d0d0d]' },
   { name: 'Product Design', category: 'Strategy & UX', icon: '✦', iconBg: 'bg-[#0d0d0d]' },
   { name: 'Graphics Design', category: 'Visual Identity', icon: '◉', iconBg: 'bg-[#ff4fc0]' },
-  { name: 'AWS', category: 'Cloud Infrastructure', icon: 'aws', iconBg: 'bg-[#f7d83a]' },
   { name: 'Firebase', category: 'Backend Services', icon: '🔥', iconBg: 'bg-[#ffca28]' },
   { name: 'Python', category: 'Backend / Scripting', icon: 'PY', iconBg: 'bg-[#54b9ff]' },
-  { name: 'MongoDB', category: 'Database', icon: '◍', iconBg: 'bg-[#30c46f]' },
+  { name: 'PostgreSQL', category: 'Database', icon: '◍', iconBg: 'bg-[#30c46f]' },
   { name: 'Git & GitHub', category: 'Version Control', icon: '◍', iconBg: 'bg-[#0d0d0d]' },
   { name: 'Canva', category: 'Design Software', icon: '◫', iconBg: 'bg-[#26d7ff]' },
-  { name: 'Java', category: 'Programming', icon: '☕', iconBg: 'bg-[#f26b35]' },
+  { name: 'C++', category: 'Programming', icon: '☕', iconBg: 'bg-[#f26b35]' },
   { name: 'HTML & CSS', category: 'Web Foundation', icon: '◫', iconBg: 'bg-[#f97316]' },
+    { name: 'WordPress', category: 'CMS', icon: '◫', iconBg: 'bg-[#f97316]' },
+    { name: 'WebFlow', category: 'CMS', icon: '◫', iconBg: 'bg-[#f97316]' },
 ];
 
 const SkillCard = ({
