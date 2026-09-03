@@ -26,7 +26,7 @@ export const About = () => {
                                       </AccordionTrigger>
                                       <AccordionContent>
                                         <h3 className='text-lg text-gold'>University of Boumerdes(2021-2023) - web developement and computer graphics :</h3>
-                                        <ul>
+                                        <ul className='text-lg text-white list-disc list-inside'>
                                           <li>CMS </li>
                                           <li>Relevant Coursework: Data Structures, Algorithms, Web Development</li>
                                           <li>Graphic and Motion Design</li>
@@ -47,11 +47,11 @@ export const About = () => {
                                         <h3 className='text-lg text-white  p-2 rounded-lg'>Experience</h3>
                                       </AccordionTrigger>
                                       <AccordionContent>
-                                        <h3 className='text-lg text-gold'>University of Boumerdes(2021-2023) - web developement and computer graphics :</h3>
-                                        <ul>
-                                          <li>CMS </li>
-                                          <li>Relevant Coursework: Data Structures, Algorithms, Web Development</li>
-                                          <li>Graphic and Motion Design</li>
+                                        <h3 className='text-lg text-gold'>Web Developer & UI UX Designer Intern (2023-03/2023-06) - Ayrade</h3>
+                                        <ul className='text-lg text-white list-disc list-inside'>
+                                          <li>Designed and developed responsive web applications using modern frameworks</li>
+                                          <li>Collaborated with cross-functional teams to deliver high-quality software solutions</li>
+                                          <li>Created wireframes and prototypes to visualize and test user interface concepts</li>
                                         </ul>
                                       </AccordionContent>
                                     </AccordionItem>
@@ -69,11 +69,11 @@ export const About = () => {
                                         <h3 className='text-lg text-white  p-2 rounded-lg'>Clubs</h3>
                                       </AccordionTrigger>
                                       <AccordionContent>
-                                        <h3 className='text-lg text-gold'>University of Boumerdes(2021-2023) - web developement and computer graphics :</h3>
-                                        <ul>
-                                          <li>CMS </li>
-                                          <li>Relevant Coursework: Data Structures, Algorithms, Web Development</li>
-                                          <li>Graphic and Motion Design</li>
+                                        <h3 className='text-lg text-gold'>Google Developers Group Boumerdes(2022-2023) - Design team member :</h3>
+                                        <ul className='text-lg text-white list-disc list-inside'>
+                                          <li>Participated in organizing events and workshops for the Google Developers Group</li>
+                                          <li>Created visual assets for promotional materials</li>
+                                          <li>Collaborated with team members to brainstorm and develop creative solutions</li>
                                         </ul>
                                       </AccordionContent>
                                     </AccordionItem>
